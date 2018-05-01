@@ -35,6 +35,11 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Editors
 
+- [Atom](https://atom.io/packages/language-perl6) - Atom package for Perl 6 support.
+- [vim](https://github.com/vim-perl/vim-perl6) - Vim support for Perl 6.
+- [Emacs](https://github.com/perl6/perl6-mode) - Emacs major mode for Perl 6.
+- [Padre](http://padre.perlide.org/) - Integrated Development Environment for Perl 6. 
+- [COMMA](http://www.commaide.com/) - Integrated Development Environment for Perl 6.
 
 ## License
 
