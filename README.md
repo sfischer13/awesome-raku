@@ -11,8 +11,12 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Introduction](#introduction)
   - [Overview](#overview)
+- [Tools](#tools)
+  - [Compilers](#compilers)
+  - [Editors](#editors)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,6 +27,14 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Perl 6](https://perl6.org/) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Perl_6) - Wikipedia entry about Perl 6.
+
+## Tools
+
+### Compilers
+
+
+### Editors
+
 
 ## License
 
