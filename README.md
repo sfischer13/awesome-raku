@@ -14,6 +14,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Introduction](#introduction)
   - [Overview](#overview)
+- [Modules](#modules)
 - [Tools](#tools)
   - [Compilers](#compilers)
   - [Editors](#editors)
@@ -27,6 +28,14 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Perl 6](https://perl6.org/) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Perl_6) - Wikipedia entry about Perl 6.
+
+
+## Modules
+
+- [zef](https://github.com/ugexe/zef) - Module manager.
+- [Modules](https://modules.perl6.org/) - Perl 6 module directory.
+- [Most Wanted](https://github.com/perl6/perl6-most-wanted) - List of most wanted modules and features for Perl 6.
+- [How-to](https://docs.perl6.org/language/modules) - How to write your own module.
 
 ## Tools
 
