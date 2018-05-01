@@ -14,6 +14,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Introduction](#introduction)
   - [Overview](#overview)
+- [Community](#community)
 - [Modules](#modules)
 - [Tools](#tools)
   - [Compilers](#compilers)
@@ -29,6 +30,17 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Perl 6](https://perl6.org/) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Perl_6) - Wikipedia entry about Perl 6.
 
+
+
+## Community
+
+- [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
+- [IRC Logs](https://irclog.perlgeek.de/perl6/) - Logs for #perl6.
+- [IRC Bots](https://perl6.org/community/irc) - Description of #perl6 IRC bots.
+- [Mailing Lists](https://perl6.org/community/) - Links to several mailing lists.
+- [reddit](https://www.reddit.com/r/perl6/) - Perl 6 subreddit.
+- [Stack Overflow](https://stackoverflow.com/tags/perl6/info) - Perl 6 tag on Stack Overflow.
+- [Twitter](https://twitter.com/perl6org) - News and posts about Perl 6 and its community.
 
 ## Modules
 
