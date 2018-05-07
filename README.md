@@ -14,6 +14,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Introduction](#introduction)
   - [Overview](#overview)
+  - [First Steps](#first-steps)
 - [Community](#community)
 - [Modules](#modules)
 - [Tools](#tools)
@@ -30,7 +31,11 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Perl 6](https://perl6.org/) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Perl_6) - Wikipedia entry about Perl 6.
 
+### First Steps
 
+- [Getting Started](https://perl6.org/getting-started/) - First steps with Perl 6.
+- [Why Perl 6?](https://docs.perl6.org/language/faq.html#Why_should_I_learn_Perl_6%3F_What%27s_so_great_about_it%3F) - Reasons for learning and using Perl 6.
+- [REPL](https://glot.io/new/perl6) - Try Perl 6 in your browser.
 
 ## Community
 
