@@ -17,6 +17,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
   - [First Steps](#first-steps)
   - [Sample Code](#sample-code)
 - [Community](#community)
+- [People](#people)
 - [Modules](#modules)
 - [Tools](#tools)
   - [Compilers](#compilers)
@@ -52,6 +53,11 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [reddit](https://www.reddit.com/r/perl6/) - Perl 6 subreddit.
 - [Stack Overflow](https://stackoverflow.com/tags/perl6/info) - Perl 6 tag on Stack Overflow.
 - [Twitter](https://twitter.com/perl6org) - News and posts about Perl 6 and its community.
+
+## People
+
+- [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) - Designer of Perl.
+- [Zoffix Znet](https://twitter.com/zoffix) - Core developer.
 
 ## Modules
 
