@@ -19,6 +19,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Community](#community)
 - [People](#people)
 - [Information](#information)
+  - [Blogs](#blogs)
   - [Videos](#videos)
 - [Modules](#modules)
 - [Tools](#tools)
@@ -63,6 +64,10 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ## Information
 
+### Blogs
+
+- [Blog Posts](http://pl6anet.org/) - Aggregation of blog posts about Perl 6.
+- [Advent Calendar](https://perl6advent.wordpress.com/) - Yearly blog post series about Perl 6.
 ### Videos 
 
 - [Talks](https://www.youtube.com/user/Perl6Now) - Talks on Perl 6.
