@@ -18,6 +18,8 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
   - [Sample Code](#sample-code)
 - [Community](#community)
 - [People](#people)
+- [Information](#information)
+  - [Videos](#videos)
 - [Modules](#modules)
 - [Tools](#tools)
   - [Compilers](#compilers)
@@ -58,6 +60,12 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) - Designer of Perl.
 - [Zoffix Znet](https://twitter.com/zoffix) - Core developer.
+
+## Information
+
+### Videos 
+
+- [Talks](https://www.youtube.com/user/Perl6Now) - Talks on Perl 6.
 
 ## Modules
 
