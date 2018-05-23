@@ -16,6 +16,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Sample Code](#sample-code)
+  - [Learning](#learning)
 - [Community](#community)
 - [People](#people)
 - [Information](#information)
@@ -47,6 +48,10 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Example Code](http://examples.perl6.org/) - Introductory code examples.
 - [Rosetta Code](https://rosettacode.org/wiki/Category:Perl_6) - Perl 6 on Rosetta Code.
 
+### Learning
+
+- [Books](https://perl6book.com/) - List of published Perl 6 books with a flow chart.
+- [Wikibook](https://en.wikibooks.org/wiki/Perl_6_Programming) - Open-content textbook on Perl 6.
 ## Community
 
 - [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
