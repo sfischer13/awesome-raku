@@ -21,6 +21,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [People](#people)
 - [Information](#information)
   - [Blogs](#blogs)
+  - [Perl 6 vs. Perl 5](#perl-6-vs-perl-5)
   - [Videos](#videos)
 - [Modules](#modules)
 - [Tools](#tools)
@@ -73,6 +74,11 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Blog Posts](http://pl6anet.org/) - Aggregation of blog posts about Perl 6.
 - [Advent Calendar](https://perl6advent.wordpress.com/) - Yearly blog post series about Perl 6.
+### Perl 6 vs. Perl 5
+
+- [Perl 6 in a Nutshell](https://docs.perl6.org/language/5to6-nutshell) - Pitfalls for Perl 5 programmers.
+- [Perl 5 to Perl 6](https://perlgeek.de/en/article/5-to-6) - Collection of blog posts about the changes from Perl 5 to Perl 6.
+
 ### Videos 
 
 - [Talks](https://www.youtube.com/user/Perl6Now) - Talks on Perl 6.
