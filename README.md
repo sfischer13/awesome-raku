@@ -22,6 +22,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Information](#information)
   - [Blogs](#blogs)
   - [Perl 6 vs. Perl 5](#perl-6-vs-perl-5)
+  - [Perl 6 for Converts](#perl-6-for-converts)
   - [Videos](#videos)
 - [Modules](#modules)
 - [Tools](#tools)
@@ -78,6 +79,12 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Perl 6 in a Nutshell](https://docs.perl6.org/language/5to6-nutshell) - Pitfalls for Perl 5 programmers.
 - [Perl 5 to Perl 6](https://perlgeek.de/en/article/5-to-6) - Collection of blog posts about the changes from Perl 5 to Perl 6.
+
+### Perl 6 for Converts
+
+- [Haskell](https://docs.perl6.org/language/haskell-to-p6) - Introduction for Haskell programmers.
+- [Python](https://docs.perl6.org/language/py-nutshell) - Introduction for Python programmers.
+- [Ruby](https://docs.perl6.org/language/rb-nutshell) - Introduction for Ruby programmers.
 
 ### Videos 
 
