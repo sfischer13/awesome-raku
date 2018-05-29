@@ -21,6 +21,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [People](#people)
 - [Information](#information)
   - [Blogs](#blogs)
+  - [Perl 6 Grammars](#perl-6-grammars)
   - [Perl 6 vs. Perl 5](#perl-6-vs-perl-5)
   - [Perl 6 for Converts](#perl-6-for-converts)
   - [Interaction](#interaction)
@@ -76,6 +77,15 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Blog Posts](http://pl6anet.org/) - Aggregation of blog posts about Perl 6.
 - [Advent Calendar](https://perl6advent.wordpress.com/) - Yearly blog post series about Perl 6.
+
+### Perl 6 Grammars
+
+- [Documenation](https://docs.perl6.org/language/grammars.html) - Documentation for grammars.
+- [Tutorial](https://docs.perl6.org/language/grammar_tutorial) - Introduction to grammars.
+- [Book](https://perl6advent.wordpress.com/2017/12/04/day-08-parsing-with-grammars-book-extract/) - Extract from a book on Perl 6 grammars.
+- [Example I](https://perl6advent.wordpress.com/2017/12/13/day13-mining-wikipedia-with-perl-6/) - Parsing Wikipedia infoboxes with grammars.
+- [Example II](https://perl6advent.wordpress.com/2017/12/14/day-14-the-little-match-girl-building-and-testing-big-grammars-in-perl-6/) - Debugging of complex grammars.
+
 ### Perl 6 vs. Perl 5
 
 - [Perl 6 in a Nutshell](https://docs.perl6.org/language/5to6-nutshell) - Pitfalls for Perl 5 programmers.
