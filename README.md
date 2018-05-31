@@ -17,6 +17,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
   - [First Steps](#first-steps)
   - [Sample Code](#sample-code)
   - [Learning](#learning)
+  - [Official Resources](#official-resources)
 - [Community](#community)
 - [People](#people)
 - [Information](#information)
@@ -56,6 +57,13 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Books](https://perl6book.com/) - List of published Perl 6 books with a flow chart.
 - [Wikibook](https://en.wikibooks.org/wiki/Perl_6_Programming) - Open-content textbook on Perl 6.
+
+### Official Resources
+
+- [Documentation](https://docs.perl6.org/) - Language, type and routine reference.
+- [FAQ](https://docs.perl6.org/language/faq) - Frequently asked questions.
+- [Glossary](https://docs.perl6.org/language/glossary) - List of terms related to Perl 6.
+- [Specification](https://perl6.org/specification/) - Description of the language design.
 ## Community
 
 - [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
