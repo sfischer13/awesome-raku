@@ -64,6 +64,9 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [FAQ](https://docs.perl6.org/language/faq) - Frequently asked questions.
 - [Glossary](https://docs.perl6.org/language/glossary) - List of terms related to Perl 6.
 - [Specification](https://perl6.org/specification/) - Description of the language design.
+- [Resources](https://perl6.org/resources/) - Official collection of resources.
+- [Whatever](https://perl6.org/whatever/) - Miscellaneous related things: Tools, merchandising and more.
+
 ## Community
 
 - [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
