@@ -69,7 +69,6 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 ## Community
 
 - [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
-- [IRC Logs](https://irclog.perlgeek.de/perl6/) - Logs for #perl6.
 - [IRC Bots](https://perl6.org/community/irc) - Description of #perl6 IRC bots.
 - [Mailing Lists](https://perl6.org/community/) - Links to several mailing lists.
 - [reddit](https://www.reddit.com/r/perl6/) - Perl 6 subreddit.
