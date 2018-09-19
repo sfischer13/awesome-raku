@@ -1,4 +1,4 @@
-# Awesome Perl 6 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Perl 6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Perl 6](https://en.wikipedia.org/wiki/Perl_6) :butterfly: programming language
 
