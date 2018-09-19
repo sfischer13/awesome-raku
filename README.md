@@ -31,7 +31,6 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Tools](#tools)
   - [Compilers](#compilers)
   - [Editors](#editors)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
