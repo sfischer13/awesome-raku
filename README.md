@@ -60,6 +60,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Wikibook](https://en.wikibooks.org/wiki/Perl_6_Programming) - Open-content textbook on Perl 6.
 - [Perl 6 Introduction](http://perl6intro.com/) - Introduction to Perl 6 in several languages.
 - [Learn Perl 6 in Y minutes](https://learnxinyminutes.com/docs/perl6/) - List of common operations in Perl 6.
+- [Exercism.io](http://exercism.io/languages/perl6/about) - Programming exercises for Perl 6.
 
 ### Official Resources
 
