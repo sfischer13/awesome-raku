@@ -86,6 +86,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Blog Posts](http://pl6anet.org/) - Aggregation of blog posts about Perl 6.
 - [Advent Calendar](https://perl6advent.wordpress.com/) - Yearly blog post series about Perl 6.
+- [Perl 6 Weekly](https://p6weekly.wordpress.com/) - Weekly summary of Perl 6 community activity.
 
 ### Perl 6 Grammars
 
