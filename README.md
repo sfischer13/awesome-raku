@@ -47,6 +47,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Why Perl 6?](https://docs.perl6.org/language/faq.html#Why_should_I_learn_Perl_6%3F_What%27s_so_great_about_it%3F) - Reasons for learning and using Perl 6.
 - [REPL](https://glot.io/new/perl6) - Try Perl 6 in your browser.
 - [Cheat Sheet](https://raw.githubusercontent.com/perl6/mu/master/docs/Perl6/Cheatsheet/cheatsheet.txt) - Perl 6 cheat sheet.
+- [Operators](https://www.ozonehouse.com/mark/periodic/) - Comprehensive list of Perl 6 operators.
 
 ### Sample Code
 
