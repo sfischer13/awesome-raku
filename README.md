@@ -120,6 +120,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Videos 
 
+- [Perl 6](https://www.youtube.com/watch?v=hR9UdvxMAbo) - Talk about Perl 6 at FOSDEM 2016.
 - [Talks](https://www.youtube.com/user/Perl6Now) - Collection of talks on Perl 6.
 
 ## Modules
