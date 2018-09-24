@@ -120,7 +120,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Videos 
 
-- [Talks](https://www.youtube.com/user/Perl6Now) - Talks on Perl 6.
+- [Talks](https://www.youtube.com/user/Perl6Now) - Collection of talks on Perl 6.
 
 ## Modules
 
