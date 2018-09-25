@@ -131,6 +131,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Modules](https://modules.perl6.org/) - Perl 6 module directory.
 - [Most Wanted](https://github.com/perl6/perl6-most-wanted) - List of most wanted modules and features for Perl 6.
 - [How-to](https://docs.perl6.org/language/modules) - How to write your own module.
+- [App::Mi6](https://github.com/skaji/mi6) - Helper for writing modules.
 
 ## Tools
 
