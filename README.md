@@ -148,6 +148,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Emacs](https://github.com/perl6/perl6-mode) - Emacs major mode for Perl 6.
 - [Padre](http://padre.perlide.org/) - Integrated Development Environment for Perl 6. 
 - [COMMA](http://www.commaide.com/) - Integrated Development Environment for Perl 6.
+- [Jupyter](https://github.com/bduggan/p6-jupyter-kernel) - Perl 6 kernel for Jupyter notebooks.
 
 ## License
 
