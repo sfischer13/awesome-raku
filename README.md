@@ -48,6 +48,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [REPL](https://glot.io/new/perl6) - Try Perl 6 in your browser.
 - [Cheat Sheet](https://raw.githubusercontent.com/perl6/mu/master/docs/Perl6/Cheatsheet/cheatsheet.txt) - Perl 6 cheat sheet.
 - [Operators](https://www.ozonehouse.com/mark/periodic/) - Comprehensive list of Perl 6 operators.
+- [Style Guide](https://github.com/scriptkitties/perl6-style-guide) - Suggestions about formatting Perl 6 code.
 
 ### Sample Code
 
