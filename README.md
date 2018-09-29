@@ -30,6 +30,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Modules](#modules)
   - [Installation](#installation)
   - [Development](#development)
+  - [Catalogue](#catalogue)
 - [Tools](#tools)
   - [Compilers](#compilers)
   - [Editors](#editors)
@@ -140,6 +141,9 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [App::Mi6](https://github.com/skaji/mi6) - Helper for writing modules.
 - [Most Wanted](https://github.com/perl6/perl6-most-wanted) - List of most wanted modules and features for Perl 6.
 
+### Catalogue
+
+- [XLSX::Writer](https://github.com/evanmiller/XLSX-Writer) - Module for creating Excel files.
 
 ## Tools
 
