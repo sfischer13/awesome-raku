@@ -2,6 +2,11 @@
 
 > Useful resources for the [Perl 6](https://en.wikipedia.org/wiki/Perl_6) :butterfly: programming language
 
+[Perl 6](https://en.wikipedia.org/wiki/Perl_6), also called *Raku*, is a multi-paradigm language with exceptional string-processing support.
+It is *not* a new version of [Perl 5](https://en.wikipedia.org/wiki/Perl).
+Instead, it is regarded as a new member of the Perl family breaking compatibility with its older sister language.
+Among many improvements, the string-processing capabilities of Perl 6 were brought to a higher level by adding so-called [grammars](https://docs.perl6.org/language/grammar_tutorial) to the language.
+
 You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
