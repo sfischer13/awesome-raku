@@ -145,6 +145,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 ### Catalogue
 
 - [XLSX::Writer](https://github.com/evanmiller/XLSX-Writer) - Module for creating Excel files.
+- [JSON::Fast](https://github.com/timo/json_fast) - Pure JSON module.
 
 ## Tools
 
