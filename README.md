@@ -1,6 +1,6 @@
 # Awesome Perl 6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Useful resources for the [Perl 6](https://en.wikipedia.org/wiki/Perl_6) :butterfly: programming language
+> Useful resources for the [Perl 6](https://perl6.org/) programming language
 
 [Perl 6](https://en.wikipedia.org/wiki/Perl_6), also called *Raku*, is a multi-paradigm language with exceptional string-processing support.
 It is *not* a new version of [Perl 5](https://en.wikipedia.org/wiki/Perl).
