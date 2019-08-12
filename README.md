@@ -157,7 +157,6 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 ### Compilers
 
 - [Compilers](https://perl6.org/compilers/) - List of compilers.
-- [Comparison](https://perl6.org/compilers/features) - Feature comparison of compilers.
 - [Rakudo](http://rakudo.org/) - Probably the most advanced compiler.
 
 ### Editors
