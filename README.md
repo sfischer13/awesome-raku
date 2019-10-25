@@ -7,7 +7,7 @@ It is *not* a new version of [Perl 5](https://en.wikipedia.org/wiki/Perl).
 Instead, it is regarded as a new member of the Perl family breaking compatibility with its older sister language.
 Among many improvements, the string-processing capabilities of Raku were brought to a higher level by adding so-called [grammars](https://docs.perl6.org/language/grammar_tutorial) to the language.
 
-:warning: The **name change** from *Perl 6* to *Raku* is **still in progress**. Some resources on this list **might still refer to it's old name**. Some of them might never be updated and refer to *Perl 6* forever.** :warning:
+:warning: The **name change** from *Perl 6* to *Raku* is **still in progress**. Some resources on this list **might still refer to it's old name**. Some of them might never be updated and refer to *Perl 6* forever. :warning:
 
 You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
