@@ -55,7 +55,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Getting Started](https://raku.org/getting-started/) - First steps with Raku.
 - [Why Raku?](https://docs.perl6.org/language/faq.html#Why_should_I_learn_Perl_6%3F_What%27s_so_great_about_it%3F) - Reasons for learning and using Raku.
-- [REPL](https://glot.io/new/perl6) - Try Raku in your browser.
+- [REPL](https://glot.io/new/raku) - Try Raku in your browser.
 - [Cheat Sheet](https://raw.githubusercontent.com/perl6/mu/master/docs/Perl6/Cheatsheet/cheatsheet.txt) - Raku cheat sheet.
 - [Operators](https://www.ozonehouse.com/mark/periodic/) - Comprehensive list of Raku operators.
 - [Style Guide](https://github.com/scriptkitties/perl6-style-guide) - Suggestions about formatting Raku code.
