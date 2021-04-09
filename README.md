@@ -171,9 +171,3 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 - [Padre](http://padre.perlide.org/) - Integrated Development Environment for Raku. 
 - [COMMA](http://www.commaide.com/) - Integrated Development Environment for Raku.
 - [Jupyter](https://github.com/bduggan/p6-jupyter-kernel) - Raku kernel for Jupyter notebooks.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
