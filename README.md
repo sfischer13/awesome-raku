@@ -1,3 +1,5 @@
+<!--lint disable double-link-->
+
 # Awesome Raku [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [Raku](https://raku.org/) programming language
