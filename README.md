@@ -147,7 +147,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [How-to](https://docs.raku.org/language/modules) - How to write your own module.
 - [App::Mi6](https://github.com/skaji/mi6) - Helper for writing modules.
-- [Most Wanted](https://github.com/perl6/perl6-most-wanted) - List of most wanted modules and features for Raku.
+- [Most Wanted](https://github.com/Raku/raku-most-wanted) - List of most wanted modules and features for Raku.
 
 ### Catalogue
 
@@ -165,8 +165,8 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 ### Editors
 
 - [Atom](https://atom.io/packages/language-perl6) - Atom package for Raku support.
-- [vim](https://github.com/vim-perl/vim-perl6) - Vim support for Raku.
-- [Emacs](https://github.com/perl6/perl6-mode) - Emacs major mode for Raku.
+- [vim](https://github.com/Raku/vim-raku) - Vim support for Raku.
+- [Emacs](https://github.com/Raku/raku-mode) - Emacs major mode for Raku.
 - [Padre](http://padre.perlide.org/) - Integrated Development Environment for Raku. 
 - [COMMA](http://www.commaide.com/) - Integrated Development Environment for Raku.
 - [Jupyter](https://github.com/bduggan/p6-jupyter-kernel) - Raku kernel for Jupyter notebooks.
