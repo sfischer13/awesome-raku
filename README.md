@@ -101,8 +101,8 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Blogs
 
-- [Blog Posts](http://pl6anet.org/) - Aggregation of blog posts about Raku.
-- [Advent Calendar](https://perl6advent.wordpress.com/) - Yearly blog post series about Raku.
+- [Blog Posts](https://planet.raku.org/) - Aggregation of blog posts about Raku.
+- [Advent Calendar](https://raku-advent.blog/) - Yearly blog post series about Raku.
 - [Rakudo Weekly](https://rakudoweekly.blog/) - Weekly summary of Raku community activity.
 
 ### Raku Grammars
