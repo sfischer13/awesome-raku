@@ -63,7 +63,6 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Sample Code
 
-- [Example Code](http://examples.perl6.org/) - Introductory code examples.
 - [Rosetta Code](https://rosettacode.org/wiki/Category:Raku) - Raku on Rosetta Code.
 
 ### Learning
