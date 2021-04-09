@@ -70,10 +70,10 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 - [Books](https://perl6book.com/) - List of published Raku books with a flow chart.
 - [Wikibook](https://en.wikibooks.org/wiki/Raku_Programming) - Open-content textbook on Raku.
-- [Raku Introduction](http://perl6intro.com/) - Introduction to Raku in several languages.
-- [Learn Raku in Y minutes](https://learnxinyminutes.com/docs/perl6/) - List of common operations in Raku.
-- [Exercism.io](http://exercism.io/languages/perl6/about) - Programming exercises for Raku.
-- [Golfing](https://github.com/AlexDaniel/6lang-golf-cheatsheet) - List of tips for code golf with Raku.
+- [Raku Guide](https://raku.guide/) - Guide to Raku in several languages.
+- [Learn Raku in Y minutes](https://learnxinyminutes.com/docs/raku/) - List of common operations in Raku.
+- [Exercism.io](https://exercism.io/tracks/raku) - Programming exercises for Raku.
+- [Golfing](https://github.com/AlexDaniel/raku-golf-cheatsheet) - List of tips for code golf with Raku.
 
 ### Official Resources
 
