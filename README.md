@@ -7,7 +7,7 @@
 [Raku](https://en.wikipedia.org/wiki/Raku_(programming_language)), formerly known as *Perl 6*, is a multi-paradigm language with exceptional string-processing support.
 It is *not* a new version of [Perl 5](https://en.wikipedia.org/wiki/Perl).
 Instead, it is regarded as a new member of the Perl family breaking compatibility with its older sister language.
-Among many improvements, the string-processing capabilities of Raku were brought to a higher level by adding so-called [grammars](https://docs.perl6.org/language/grammar_tutorial) to the language.
+Among many improvements, the string-processing capabilities of Raku were brought to a higher level by adding so-called [grammars](https://docs.raku.org/language/grammar_tutorial) to the language.
 
 :warning: The **name change** from *Perl 6* to *Raku* is **still in progress**. Some resources on this list **might still refer to it's old name**. Some of them might never be updated and refer to *Perl 6* forever. :warning:
 
@@ -78,12 +78,12 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Official Resources
 
-- [Documentation](https://docs.perl6.org/) - Language, type and routine reference.
-- [FAQ](https://docs.perl6.org/language/faq) - Frequently asked questions.
-- [Glossary](https://docs.perl6.org/language/glossary) - List of terms related to Raku.
-- [Specification](https://perl6.org/specification/) - Description of the language design.
-- [Resources](https://perl6.org/resources/) - Official collection of resources.
-- [Whatever](https://perl6.org/whatever/) - Miscellaneous related things: Tools, merchandising and more.
+- [Documentation](https://docs.raku.org/) - Language, type and routine reference.
+- [FAQ](https://docs.raku.org/language/faq) - Frequently asked questions.
+- [Glossary](https://docs.raku.org/language/glossary) - List of terms related to Raku.
+- [Specification](https://raku.org/specification/) - Description of the language design.
+- [Resources](https://raku.org/resources/) - Official collection of resources.
+- [Whatever](https://raku.org/whatever/) - Miscellaneous related things: Tools, merchandising and more.
 
 ## Community
 
@@ -109,22 +109,22 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Raku Grammars
 
-- [Documenation](https://docs.perl6.org/language/grammars.html) - Documentation for grammars.
-- [Tutorial](https://docs.perl6.org/language/grammar_tutorial) - Introduction to grammars.
+- [Documenation](https://docs.raku.org/language/grammars.html) - Documentation for grammars.
+- [Tutorial](https://docs.raku.org/language/grammar_tutorial) - Introduction to grammars.
 - [Book](https://perl6advent.wordpress.com/2017/12/04/day-08-parsing-with-grammars-book-extract/) - Extract from a book on Raku grammars.
 - [Example I](https://perl6advent.wordpress.com/2017/12/13/day13-mining-wikipedia-with-perl-6/) - Parsing Wikipedia infoboxes with grammars.
 - [Example II](https://perl6advent.wordpress.com/2017/12/14/day-14-the-little-match-girl-building-and-testing-big-grammars-in-perl-6/) - Debugging of complex grammars.
 
 ### Raku vs. Perl 5
 
-- [Raku in a Nutshell](https://docs.perl6.org/language/5to6-nutshell) - Pitfalls for Perl 5 programmers.
+- [Raku in a Nutshell](https://docs.raku.org/language/5to6-nutshell) - Pitfalls for Perl 5 programmers.
 - [Perl 5 to Raku](https://perlgeek.de/en/article/5-to-6) - Collection of blog posts about the changes from Perl 5 to Raku.
 
 ### Raku for Converts
 
-- [Haskell](https://docs.perl6.org/language/haskell-to-p6) - Introduction for Haskell programmers.
-- [Python](https://docs.perl6.org/language/py-nutshell) - Introduction for Python programmers.
-- [Ruby](https://docs.perl6.org/language/rb-nutshell) - Introduction for Ruby programmers.
+- [Haskell](https://docs.raku.org/language/haskell-to-p6) - Introduction for Haskell programmers.
+- [Python](https://docs.raku.org/language/py-nutshell) - Introduction for Python programmers.
+- [Ruby](https://docs.raku.org/language/rb-nutshell) - Introduction for Ruby programmers.
 
 ### Interaction
 
@@ -142,11 +142,11 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 ### Installation
 
 - [zef](https://github.com/ugexe/zef) - Module manager.
-- [Modules](https://modules.perl6.org/) - Raku module directory.
+- [Modules](https://modules.raku.org/) - Raku module directory.
 
 ### Development
 
-- [How-to](https://docs.perl6.org/language/modules) - How to write your own module.
+- [How-to](https://docs.raku.org/language/modules) - How to write your own module.
 - [App::Mi6](https://github.com/skaji/mi6) - Helper for writing modules.
 - [Most Wanted](https://github.com/perl6/perl6-most-wanted) - List of most wanted modules and features for Raku.
 
@@ -160,7 +160,7 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ### Compilers
 
-- [Compilers](https://perl6.org/compilers/) - List of compilers.
+- [Compilers](https://raku.org/compilers/) - List of compilers.
 - [Rakudo](http://rakudo.org/) - Probably the most advanced compiler.
 
 ### Editors
