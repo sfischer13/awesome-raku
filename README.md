@@ -86,7 +86,6 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ## Community
 
-- [Twitter](https://twitter.com/perl6org) - News and posts about Raku and its community.
 - [IRC](https://webchat.freenode.net/?channels=#raku) - IRC channel.
 - [IRC Bots](https://raku.org/community/irc) - Description of #raku IRC bots.
 - [Mailing Lists](https://raku.org/community/) - Links to several mailing lists.
