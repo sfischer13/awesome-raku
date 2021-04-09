@@ -86,12 +86,12 @@ You might also like [awesome-perl](https://github.com/hachiojipm/awesome-perl).
 
 ## Community
 
-- [IRC](https://webchat.freenode.net/?channels=#perl6) - IRC channel.
-- [IRC Bots](https://perl6.org/community/irc) - Description of #perl6 IRC bots.
-- [Mailing Lists](https://perl6.org/community/) - Links to several mailing lists.
-- [reddit](https://www.reddit.com/r/perl6/) - Raku subreddit.
-- [Stack Overflow](https://stackoverflow.com/tags/perl6/info) - Raku tag on Stack Overflow.
 - [Twitter](https://twitter.com/perl6org) - News and posts about Raku and its community.
+- [IRC](https://webchat.freenode.net/?channels=#raku) - IRC channel.
+- [IRC Bots](https://raku.org/community/irc) - Description of #raku IRC bots.
+- [Mailing Lists](https://raku.org/community/) - Links to several mailing lists.
+- [reddit](https://www.reddit.com/r/rakulang/) - Raku subreddit.
+- [Stack Overflow](https://stackoverflow.com/tags/raku/info) - Raku tag on Stack Overflow.
 
 ## People
 
